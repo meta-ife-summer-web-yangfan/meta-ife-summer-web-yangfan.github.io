@@ -1,5 +1,5 @@
-$('body,html').animate({scrollTop:0},600); 
-$(".top_logo").css("opacity",0).animate({opacity:"1",width:"+=67px",height:"+=67px",marginLeft:"-=33.5px",marginTop:"-=33.5px"},600);
+$('body,html').animate({scrollTop:0},1000); 
+$(".top_logo").css("opacity",0).animate({opacity:"1",width:"+=67px",height:"+=67px",marginLeft:"-=33.5px",marginTop:"-=33.5px"},1000);
 $(".member_contact a").mouseenter(function(){
 	$(".dialog_content").html($(this).attr('alt'));
 	$(".page_dialog").css("top",$(this).offset().top-$(".page_dialog").height()/2+$(this).height()+20).css("left",$(this).offset().left-$(".page_dialog").width()/2+$(this).width()/2);

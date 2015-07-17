@@ -33,4 +33,3 @@
 .page_dialog{display:none;position:absolute;padding-top:6px;z-index:999;height:28px;background:url('../images/contact_arrow.gif') no-repeat;background-position:top center;}
 .dialog_content{background:#515185;border-radius:4px;color:#c7cce3;font-size:12px;line-height:22px;padding:0px 10px;min-width:20px;min-height:20px;}
 .go_top{display:none;position:fixed;z-index:998;cursor:pointer;right:20px;bottom:20px;height:64px;width:64px;background:url('../images/go_top.png');}
-.go_top:hover{opacity:0.5;}

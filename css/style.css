@@ -14,18 +14,17 @@
 .top_title{margin-left:20px;}
 .top_logo{position:absolute;width:201px;height:201px;margin-left:399.5px;margin-top:55.5px;}
 .top_arrow{position:absolute;margin-left:479px;margin-top:391px;width:42px;height:21px;background:url('../images/banner_arrow.gif') no-repeat;}
-.section_region{overflow:hidden;padding-top:50px;}
+.section_region{overflow:hidden;padding-top:50px;padding-bottom:50px;}
 .section_title{height:48px;width:968px;margin:auto;}
 .section_content{margin:45px 10px;}
 .member_region{background-color:#1f264c;}
 .member_title{background:url('../images/section_member_title.png') no-repeat;}
-.member_tile{float:left;width:246px;height:360px;padding:30px 34px 70px 34px;margin:15px 6px;text-align:center;color:#fff;}
-.member_avatar{transition:opacity 0.2s;-moz-transition:opacity 0.2s;-webkit-transition:opacity 0.2s;-o-transition:opacity 0.2s;}
-.member_avatar:hover{opacity:0.7;}
+.member_tile{transition:background-color 0.6s;-moz-transition:background-color 0.6s;-webkit-transition:background-color 0.6s;-o-transition:background-color 0.6s;float:left;width:246px;height:364px;padding:30px 34px 70px 34px;margin:15px 6px;text-align:center;color:#fff;}
+.member_tile:hover{background:#242c56;}
 .member_name{margin-top:37px;font-size:22px;}
-.member_intro{text-align:left;margin-top:22px;line-height:24px;font-size:14px;min-height:72px;}
+.member_intro{text-align:left;margin-top:22px;line-height:24px;font-size:14px;min-height:96px;}
 .member_line{float:left;height:1px;width:60px;background:#565c76;margin-top:19.5px;}
-.member_contact{margin:32px auto 0 auto;width:244px;}
+.member_contact{margin:10px auto 0 auto;width:244px;}
 .member_contact_email{transition:opacity 0.2s;-moz-transition:opacity 0.2s;-webkit-transition:opacity 0.2s;-o-transition:opacity 0.2s;margin:0 13px 0 10px;float:left;display:block;background:url('../images/contact_email.png') no-repeat;height:39px;width:39px;}
 .member_contact_email:hover{opacity:0.5;}
 .member_contact_github{transition:opacity 0.2s;-moz-transition:opacity 0.2s;-webkit-transition:opacity 0.2s;-o-transition:opacity 0.2s;margin:0 10px 0 13px;float:left;display:block;background:url('../images/contact_github.png') no-repeat;height:39px;width:39px;}

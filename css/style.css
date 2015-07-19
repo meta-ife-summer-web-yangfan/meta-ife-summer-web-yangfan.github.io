@@ -23,6 +23,8 @@
 .member_tile:hover{background:#242c56;}
 .member_name{margin-top:37px;font-size:22px;}
 .member_intro{text-align:left;margin-top:22px;line-height:24px;font-size:14px;min-height:96px;}
+.member_intro a{color:#fff;}
+.member_intro a:visited{color:#fff;}
 .member_line{float:left;height:1px;width:60px;background:#565c76;margin-top:19.5px;}
 .member_contact{margin:10px auto 0 auto;width:244px;}
 .member_contact_email{transition:opacity 0.2s;-moz-transition:opacity 0.2s;-webkit-transition:opacity 0.2s;-o-transition:opacity 0.2s;margin:0 13px 0 10px;float:left;display:block;background:url('../images/contact_email.png') no-repeat;height:39px;width:39px;}
